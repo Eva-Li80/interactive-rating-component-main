@@ -38,6 +38,7 @@ body {
 
   .all:hover{
     cursor: pointer;
+    background-color: hsl(25, 66%, 74%);
   }
 
   #svg{
